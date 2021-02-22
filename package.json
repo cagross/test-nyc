@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "nyc": "^15.1.0",
     "tape": "^5.2.0"
   }
 }
